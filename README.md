@@ -1,6 +1,7 @@
 # Привет, меня зовут Ангелина!
 
-![Мое фото] ![alt text](images.jpeg)
+![images](https://github.com/user-attachments/assets/82ad8c1a-23f1-4302-86ce-0a031cb4b60e)
+
  
 
 ## О себе
